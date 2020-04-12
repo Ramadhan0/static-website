@@ -14,7 +14,9 @@ index.html - The Index document for the website.
 /vendor - Bootssrap CSS framework, Font, and JavaScript libraries needed for the website to function.
 /css - CSS files for the website.
 
-### Screenshot 
+### Screenshots
+#### [s3 bucket](https://github.com/Ramadhan0/static-website/blob/develop/screanshots/s3_bucket.png)
+![s3](https://github.com/Ramadhan0/static-website/blob/develop/screanshots/s3_bucket.png)
 #### [Distributed Website via CloudFront](https://github.com/Ramadhan0/static-website/blob/develop/screanshots/Distributed%20Website%20via%20CloudFront.png)
 ![Distributed Website via CloudFront](https://github.com/Ramadhan0/static-website/blob/develop/screanshots/Distributed%20Website%20via%20CloudFront.png)
 
