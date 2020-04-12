@@ -1,5 +1,5 @@
 ### Link to the hosted website 
-#### link [Static Website](http://d3q1z60hqhl37h.cloudfront.net/index.html)
+#### link [Static Website](http://d3oq98ckyz7er2.cloudfront.net/index.html)
 
 
 ## instructions I followed
