@@ -17,6 +17,11 @@ index.html - The Index document for the website.
 ### Screenshots
 #### [s3 bucket](https://github.com/Ramadhan0/static-website/blob/develop/screanshots/s3_bucket.png)
 ![s3](https://github.com/Ramadhan0/static-website/blob/develop/screanshots/s3_bucket.png)
+
+#### [uploaded files on s3 bucket](https://github.com/Ramadhan0/static-website/blob/develop/screanshots/project_files.png)
+![files](https://github.com/Ramadhan0/static-website/blob/develop/screanshots/project_files.png)
+
+
 #### [Distributed Website via CloudFront](https://github.com/Ramadhan0/static-website/blob/develop/screanshots/Distributed%20Website%20via%20CloudFront.png)
 ![Distributed Website via CloudFront](https://github.com/Ramadhan0/static-website/blob/develop/screanshots/Distributed%20Website%20via%20CloudFront.png)
 
